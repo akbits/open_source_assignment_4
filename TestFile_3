@@ -91,8 +91,6 @@ button:hover {
     
     <p>Designed by : Prashanth S</p>
     <p>Group OS Assignment </p>
-    
-
     <div class="clearfix">
       <button type="button" class="cancelbtn">Cancel</button>
       <button type="submit" class="signupbtn">Sign Up</button>
